@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1576184613079' stop='1576184613082'>
+    <name>Email Alerts &amp; Reports tab: </name>
+    <title>Email Alerts &amp; Reports tab: </title>
+    <test-cases>
+        <test-case start='1576184613079' status='pending' stop='1576184613079'>
+            <name>enable daily emails for the most active visitors</name>
+            <title>enable daily emails for the most active visitors</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1576184613079' status='pending' stop='1576184613079'>
+            <name>enable weekly emails for the most active visitors</name>
+            <title>enable weekly emails for the most active visitors</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1576184613079' status='pending' stop='1576184613079'>
+            <name>select specific number of page views for daily email reports</name>
+            <title>select specific number of page views for daily email reports</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1576184613079' status='pending' stop='1576184613080'>
+            <name>select specific number of page views for weekly email reports</name>
+            <title>select specific number of page views for weekly email reports</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1576184613080' status='pending' stop='1576184613080'>
+            <name>enable instant email alerts</name>
+            <title>enable instant email alerts</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1576184613080' status='pending' stop='1576184613080'>
+            <name>change the number of pages viewed for instant email alerts</name>
+            <title>change the number of pages viewed for instant email alerts</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1576184613080' status='pending' stop='1576184613080'>
+            <name>enable form email alerts</name>
+            <title>enable form email alerts</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1576184613080' status='pending' stop='1576184613082'>
+            <name>enable watchlist email alerts</name>
+            <title>enable watchlist email alerts</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,43 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1576184613086' stop='1576184613086'>
+    <name>Lead Scoring tab: </name>
+    <title>Lead Scoring tab: </title>
+    <test-cases>
+        <test-case start='1576184613086' status='pending' stop='1576184613086'>
+            <name>add new lead score</name>
+            <title>add new lead score</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1576184613086' status='pending' stop='1576184613086'>
+            <name>edit an existing lead score</name>
+            <title>edit an existing lead score</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1576184613086' status='pending' stop='1576184613086'>
+            <name>delete a lead score</name>
+            <title>delete a lead score</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

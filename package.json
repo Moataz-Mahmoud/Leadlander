@@ -1,0 +1,39 @@
+{
+  "name": "e2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "webdriver-manager update",
+    "report": "allure generate allure-results --clean -o test-report",
+    "tsc": "tsc",
+    "webdriver-start": "webdriver-manager start",
+    "preadmin_companies": "npm run tsc",
+    "admin_companies": "protractor convertedjs/specs/admin_user/companies_view/config.js",
+    "preadmin_ISPs": "npm run tsc",
+    "admin_ISPs": "protractor convertedjs/specs/admin_user/ISPs_view/config.js",
+    "preadmin_companiesAndISPs": "npm run tsc",
+    "admin_companiesAndISPs": "protractor convertedjs/specs/admin_user/companiesAndISPs_view/config.js",
+    "prenormal_companies": "npm run tsc",
+    "normal_companies": "protractor convertedjs/specs/normal_user/companies_view/config.js",
+    "prenormal_ISPs": "npm run tsc",
+    "normal_ISPs": "protractor convertedjs/specs/normal_user/ISPs_view/config.js",
+    "prenormal_companiesAndISPs": "npm run tsc",
+    "normal_companiesAndISPs": "protractor convertedjs/specs/normal_user/companiesAndISPs_view/config.js",
+    "preadministration": "npm run tsc",
+    "administration": "protractor convertedjs/specs/system_administration/config.js",
+    "presettings": "npm run tsc",
+    "settings": "protractor convertedjs/specs/account_settings/config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jasmine": "^3.3.13",
+    "@types/node": "^12.0.8",
+    "allure-commandline": "^2.13.0",
+    "jasmine": "^3.4.0",
+    "jasmine-allure-reporter": "^1.0.2",
+    "protractor": "^5.4.2",
+    "typescript": "^3.5.2"
+  }
+}
